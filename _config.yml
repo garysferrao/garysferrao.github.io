@@ -1,0 +1,13 @@
+# Site settings
+title: Ardour
+email: garysferrao@users.noreply.github.com
+description: > # this means to ignore newlines until "baseurl:"
+  Want to do something grand, but can't afford a slave? Make a machine
+  do it for you! Clues on how to tame these electronic beasts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://garysferrao.github.io" # the base hostname & protocol for your site
+twitter_username: garysferrao
+github_username:  garysferrao
+
+# Build settings
+markdown: kramdown
