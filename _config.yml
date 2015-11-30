@@ -14,4 +14,4 @@ markdown: kramdown
 
 # Plugins
 gems:
-  - jekyll-last-modified-at
+  - jekyll-feed
