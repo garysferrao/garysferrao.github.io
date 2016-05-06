@@ -56,7 +56,7 @@ reflect the changes.
 
 #### 2. Download Drupal 8
 
-…from their site ― https://www.drupal.org/8/download. Extract the archive to the
+…from [their site](https://www.drupal.org/8/download). Extract the archive to the
 `public_html` directory within your home folder. Also copy
 `sites/default/default.settings.php` to `sites/default/settings.php`.
 
