@@ -6,10 +6,14 @@ permalink: /now/
 
 # What i'm doing now
 
-* Research in Queuing Systems
-* Personality Development
+* Survey of Simulation Tools and Performance Measurement for Queueing Systems.
+* IIT Bombay courses: Designing Algorithms, Physics of Nanoelectronic Devices.
 
-Last updated on 28 April 2016 at 10:14 AM
+Last updated on 26 August 2016 at 08:54 PM
+
+[//]: # (Last updated on 28 April 2016 at 10:14 AM)
+[//]: # (* Research in Queuing Systems)
+[//]: # (* Personality Development)
 
 [//]: #(Last updated on 4 January 2016 at 10:51 AM)
 [//]: #(* Student and work stuff)
