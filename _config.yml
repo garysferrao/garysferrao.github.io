@@ -15,3 +15,4 @@ markdown: kramdown
 # Plugins
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
