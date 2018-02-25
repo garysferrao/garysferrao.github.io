@@ -6,10 +6,18 @@ permalink: /now/
 
 # What i'm doing now
 
-* Survey of Simulation Tools and Performance Measurement for Queueing Systems.
-* IIT Bombay courses: Designing Algorithms, Physics of Nanoelectronic Devices.
+* Modifying the PerfCenter simulator for queueing networks to support pre-
+  emptive scheduling policies.
+* Studying a course on Internet Economics.
+* Coordinating film and media activities in for the post-graduate students in
+  the institute.
+* Striving to be awesome!~
 
-Last updated on 26 August 2016 at 08:54 PM
+Last updated on 6 Pisces 1939 at 01:35 PM
+
+[//]: # (Last updated on 26 August 2016 at 08:54 PM:)
+[//]: # (* Survey of Simulation Tools and Performance Measurement for Queueing Systems.)
+[//]: # (* IIT Bombay courses: Designing Algorithms, Physics of Nanoelectronic Devices.)
 
 [//]: # (Last updated on 28 April 2016 at 10:14 AM)
 [//]: # (* Research in Queuing Systems)
