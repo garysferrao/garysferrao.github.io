@@ -6,14 +6,21 @@ permalink: /now/
 
 # What i'm doing now
 
-* Modifying the PerfCenter simulator for queueing networks to support pre-
-  emptive scheduling policies.
-* Studying a course on Internet Economics.
-* Coordinating film and media activities in for the post-graduate students in
-  the institute.
-* Striving to be awesome!~
+last updated on 120年00月18日 at 14時
 
-Last updated on 6 Pisces 1939 at 01:35 PM
+* exploring mathematical type systems, programming language design.
+* playing with a "safety-first" operating system design.
+* striving to be awesome!~
+
+
+[//]: # (* Modifying the PerfCenter simulator for queueing networks to support pre-)
+[//]: # (  emptive scheduling policies.)
+[//]: # (* Studying a course on Internet Economics.)
+[//]: # (* Coordinating film and media activities in for the post-graduate students in)
+[//]: # (  the institute.)
+[//]: # (* Striving to be awesome!~)
+
+[//]: # (Last updated on 6 Pisces 1939 at 01:35 PM)
 
 [//]: # (Last updated on 26 August 2016 at 08:54 PM:)
 [//]: # (* Survey of Simulation Tools and Performance Measurement for Queueing Systems.)
